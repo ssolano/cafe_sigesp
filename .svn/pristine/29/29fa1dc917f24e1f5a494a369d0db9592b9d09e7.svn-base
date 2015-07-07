@@ -1,0 +1,108 @@
+<?php
+
+$i++;
+$empresa["hostname"][$i]="localhost";
+$empresa["port"][$i]="5432";
+$empresa["database"][$i]="db_vnzla_3011";
+$empresa["login"][$i]="kepein";
+$empresa["password"][$i]="kepein2011";
+$empresa["gestor"][$i]="POSTGRES";
+$empresa["width"][$i]="90";
+$empresa["height"][$i]="50";
+$empresa["logo"][$i]="logo.jpg";
+
+
+$i++;
+$empresa["hostname"][$i]="localhost";
+$empresa["port"][$i]="5432";
+$empresa["database"][$i]="db_vnzla_2011";
+$empresa["login"][$i]="kepein";
+$empresa["password"][$i]="kepein2011";
+$empresa["gestor"][$i]="POSTGRES";
+$empresa["width"][$i]="90";
+$empresa["height"][$i]="50";
+$empresa["logo"][$i]="logo.jpg";
+
+$i++;
+$empresa["hostname"][$i]="localhost";
+$empresa["port"][$i]="5432";
+$empresa["database"][$i]="db_prueba_2011";
+$empresa["login"][$i]="kepein";
+$empresa["password"][$i]="kepein2011";
+$empresa["gestor"][$i]="POSTGRES";
+$empresa["width"][$i]="90";
+$empresa["height"][$i]="50";
+$empresa["logo"][$i]="logo.jpg";
+
+$i++;
+$empresa["hostname"][$i]="localhost";
+$empresa["port"][$i]="5432";
+$empresa["database"][$i]="db_prueba2_2011";
+$empresa["login"][$i]="kepein";
+$empresa["password"][$i]="kepein2011";
+$empresa["gestor"][$i]="POSTGRES";
+$empresa["width"][$i]="90";
+$empresa["height"][$i]="50";
+$empresa["logo"][$i]="logo.jpg";
+
+
+# $i++;
+# $empresa["hostname"][$i]="localhost";
+# $empresa["port"][$i]="5432";
+# $empresa["database"][$i]="PRUEBAS_160611";
+# $empresa["login"][$i]="kepein";
+# $empresa["password"][$i]="kepein2011";
+# $empresa["gestor"][$i]="POSTGRES";
+# $empresa["width"][$i]="90";
+# $empresa["height"][$i]="50";
+# $empresa["logo"][$i]="logo.jpg";
+
+
+
+$i++;
+$empresa["hostname"][$i]="localhost";
+$empresa["port"][$i]="5432";
+$empresa["database"][$i]="db_vnzla_2012";
+$empresa["login"][$i]="kepein";
+$empresa["password"][$i]="kepein2011";
+$empresa["gestor"][$i]="POSTGRES";
+$empresa["width"][$i]="90";
+$empresa["height"][$i]="50";
+$empresa["logo"][$i]="logo.jpg";
+
+
+$i++;
+$empresa["hostname"][$i]="localhost";
+$empresa["port"][$i]="5432";
+$empresa["database"][$i]="db_presupuesto_2012";
+$empresa["login"][$i]="kepein";
+$empresa["password"][$i]="kepein2011";
+$empresa["gestor"][$i]="POSTGRES";
+$empresa["width"][$i]="90";
+$empresa["height"][$i]="50";
+$empresa["logo"][$i]="logo.jpg";
+
+
+$i++;
+$empresa["hostname"][$i]="localhost";
+$empresa["port"][$i]="5432";
+$empresa["database"][$i]="db_calidad_vnzla_211";
+$empresa["login"][$i]="kepein";
+$empresa["password"][$i]="kepein2011";
+$empresa["gestor"][$i]="POSTGRES";
+$empresa["width"][$i]="90";
+$empresa["height"][$i]="50";
+$empresa["logo"][$i]="logo.jpg";
+
+$i++;
+$empresa["hostname"][$i]="localhost";
+$empresa["port"][$i]="5432";
+$empresa["database"][$i]="db_vnzla_3012";
+$empresa["login"][$i]="kepein";
+$empresa["password"][$i]="kepein2011";
+$empresa["gestor"][$i]="POSTGRES";
+$empresa["width"][$i]="90";
+$empresa["height"][$i]="50";
+$empresa["logo"][$i]="logo.jpg";
+
+?>

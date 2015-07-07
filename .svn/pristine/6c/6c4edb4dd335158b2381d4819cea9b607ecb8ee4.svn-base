@@ -1,0 +1,41 @@
+//*****************************************************************//
+   Tabla Origen  siv_config Registros 1 
+   Tabla Destino siv_config Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  siv_almacen Registros 5 
+   Tabla Destino siv_almacen Registros 5 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  siv_tipoarticulo Registros 23 
+   Tabla Destino siv_tipoarticulo Registros 23 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  siv_unidadmedida Registros 57 
+   Tabla Destino siv_unidadmedida Registros 57 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  siv_segmento Registros 1 
+   Tabla Destino siv_segmento Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  siv_familia Registros 1 
+   Tabla Destino siv_familia Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  siv_clase Registros 1 
+   Tabla Destino siv_clase Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  siv_producto Registros 1 
+   Tabla Destino siv_producto Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  siv_articulo Registros 758 
+   Tabla Destino siv_articulo Registros 758 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  siv_cargosarticulo Registros 611 
+   Tabla Destino siv_cargosarticulo Registros 611 
+//*****************************************************************//
+La data de Inventario se copió correctamente.

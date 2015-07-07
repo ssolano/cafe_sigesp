@@ -1,0 +1,21 @@
+//*****************************************************************//
+   Tabla Origen  soc_clausulas Registros 0 
+   Tabla Destino soc_clausulas Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  soc_modalidadclausulas Registros 1 
+   Tabla Destino soc_modalidadclausulas Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  soc_tiposervicio Registros 27 
+   Tabla Destino soc_tiposervicio Registros 27 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  soc_servicios Registros 480 
+   Tabla Destino soc_servicios Registros 480 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  soc_serviciocargo Registros 448 
+   Tabla Destino soc_serviciocargo Registros 448 
+//*****************************************************************//
+La data de Compras se copió correctamente.

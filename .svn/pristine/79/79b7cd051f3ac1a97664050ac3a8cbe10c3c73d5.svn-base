@@ -1,0 +1,36 @@
+//*****************************************************************//
+   Tabla Origen  sigesp_plan_unico Registros 803 
+   Tabla Destino sigesp_plan_unico Registros 803 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_plan_unico_re Registros 1840 
+   Tabla Destino sigesp_plan_unico_re Registros 1840 
+//*****************************************************************//
+Error al Insertar las operaciones de ingreso.
+Invalid query: ERROR:  llave duplicada viola restricción unique «pk_spi_operaciones»
+Whole query: INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('AU','Aumento',0,1,0,0,0,0,1)
+INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('AU','Aumento',0,1,0,0,0,0,1)
+Error al Insertar las operaciones de ingreso.
+Invalid query: ERROR:  llave duplicada viola restricción unique «pk_spi_operaciones»
+Whole query: INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('COB','Cobrado',0,0,0,0,1,0,0)
+INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('COB','Cobrado',0,0,0,0,1,0,0)
+Error al Insertar las operaciones de ingreso.
+Invalid query: ERROR:  llave duplicada viola restricción unique «pk_spi_operaciones»
+Whole query: INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('DC','Devengado y Cobrado',0,0,0,1,1,0,0)
+INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('DC','Devengado y Cobrado',0,0,0,1,1,0,0)
+Error al Insertar las operaciones de ingreso.
+Invalid query: ERROR:  llave duplicada viola restricción unique «pk_spi_operaciones»
+Whole query: INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('DEV','Devengado',0,0,0,1,0,0,0)
+INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('DEV','Devengado',0,0,0,1,0,0,0)
+Error al Insertar las operaciones de ingreso.
+Invalid query: ERROR:  llave duplicada viola restricción unique «pk_spi_operaciones»
+Whole query: INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('DI','Disminucion',0,0,1,0,0,0,1)
+INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('DI','Disminucion',0,0,1,0,0,0,1)
+Error al Insertar las operaciones de ingreso.
+Invalid query: ERROR:  llave duplicada viola restricción unique «pk_spi_operaciones»
+Whole query: INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('PRE','Previsto',1,0,0,0,0,0,1)
+INSERT INTO spi_operaciones (operacion, denominacion, previsto, aumento, disminucion, devengado, cobrado, cobrado_ant, reservado) VALUES ('PRE','Previsto',1,0,0,0,0,0,1)
+//*****************************************************************//
+   Tabla Origen  spi_operaciones Registros 6 
+   Tabla Destino spi_operaciones Registros 0 
+//*****************************************************************//

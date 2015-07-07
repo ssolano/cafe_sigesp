@@ -1,0 +1,1409 @@
+//*****************************************************************//
+   Tabla Origen  sno_profesion Registros 75 
+   Tabla Destino sno_profesion Registros 75 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_unidadadmin Registros 43 
+   Tabla Destino sno_unidadadmin Registros 43 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyecto Registros 0 
+   Tabla Destino sno_proyecto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constanciatrabajo Registros 1 
+   Tabla Destino sno_constanciatrabajo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cestaticket Registros 2 
+   Tabla Destino sno_cestaticket Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cestaticunidadadm Registros 81 
+   Tabla Destino sno_cestaticunidadadm Registros 81 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tablavacacion Registros 2 
+   Tabla Destino sno_tablavacacion Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tablavacperiodo Registros 16 
+   Tabla Destino sno_tablavacperiodo Registros 16 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_dedicacion Registros 4 
+   Tabla Destino sno_dedicacion Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipopersonal Registros 31 
+   Tabla Destino sno_tipopersonal Registros 31 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_escaladocente Registros 1 
+   Tabla Destino sno_escaladocente Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_clasificaciondocente Registros 1 
+   Tabla Destino sno_clasificaciondocente Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_ubicacionfisica Registros 2 
+   Tabla Destino sno_ubicacionfisica Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_componente Registros 0 
+   Tabla Destino sno_componente Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_rango Registros 0 
+   Tabla Destino sno_rango Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipopersonalsss Registros 16 
+   Tabla Destino sno_tipopersonalsss Registros 16 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  srh_organigrama Registros 1 
+   Tabla Destino srh_organigrama Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personal Registros 3305 
+   Tabla Destino sno_personal Registros 3305 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalisr Registros 26160 
+   Tabla Destino sno_personalisr Registros 26160 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_estudiorealizado Registros 286 
+   Tabla Destino sno_estudiorealizado Registros 286 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_trabajoanterior Registros 150 
+   Tabla Destino sno_trabajoanterior Registros 150 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_familiar Registros 1979 
+   Tabla Destino sno_familiar Registros 1979 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_permiso Registros 122 
+   Tabla Destino sno_permiso Registros 122 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_beneficiario Registros 0 
+   Tabla Destino sno_beneficiario Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideicomiso Registros 0 
+   Tabla Destino sno_fideicomiso Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_vacacpersonal Registros 2902 
+   Tabla Destino sno_vacacpersonal Registros 2902 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_ipasme_dependencias Registros 0 
+   Tabla Destino sno_ipasme_dependencias Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_ipasme_afiliado Registros 0 
+   Tabla Destino sno_ipasme_afiliado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_ipasme_beneficiario Registros 0 
+   Tabla Destino sno_ipasme_beneficiario Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_archivotxt Registros 0 
+   Tabla Destino sno_archivotxt Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_archivotxtcampo Registros 0 
+   Tabla Destino sno_archivotxtcampo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_metodobanco Registros 69 
+   Tabla Destino sno_metodobanco Registros 69 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 42 
+   Tabla Destino sno_cargo Registros 42 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 234 
+   Tabla Destino sno_personalnomina Registros 234 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 34 
+   Tabla Destino sno_constante Registros 34 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 7956 
+   Tabla Destino sno_constantepersonal Registros 7956 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 41 
+   Tabla Destino sno_concepto Registros 41 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 9594 
+   Tabla Destino sno_conceptopersonal Registros 9594 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 17 
+   Tabla Destino sno_cargo Registros 17 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 20 
+   Tabla Destino sno_personalnomina Registros 20 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 12 
+   Tabla Destino sno_constante Registros 12 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 240 
+   Tabla Destino sno_constantepersonal Registros 240 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 30 
+   Tabla Destino sno_concepto Registros 30 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 600 
+   Tabla Destino sno_conceptopersonal Registros 600 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 8 
+   Tabla Destino sno_cargo Registros 8 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 7 
+   Tabla Destino sno_personalnomina Registros 7 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 21 
+   Tabla Destino sno_constante Registros 21 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 147 
+   Tabla Destino sno_constantepersonal Registros 147 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 26 
+   Tabla Destino sno_concepto Registros 26 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 182 
+   Tabla Destino sno_conceptopersonal Registros 182 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 3 
+   Tabla Destino sno_cargo Registros 3 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 2 
+   Tabla Destino sno_personalnomina Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 12 
+   Tabla Destino sno_constante Registros 12 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 24 
+   Tabla Destino sno_constantepersonal Registros 24 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 19 
+   Tabla Destino sno_concepto Registros 19 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 38 
+   Tabla Destino sno_conceptopersonal Registros 38 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 41 
+   Tabla Destino sno_cargo Registros 41 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 174 
+   Tabla Destino sno_personalnomina Registros 174 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 23 
+   Tabla Destino sno_constante Registros 23 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 4002 
+   Tabla Destino sno_constantepersonal Registros 4002 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 32 
+   Tabla Destino sno_concepto Registros 32 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 5568 
+   Tabla Destino sno_conceptopersonal Registros 5568 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 18 
+   Tabla Destino sno_cargo Registros 18 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 283 
+   Tabla Destino sno_personalnomina Registros 283 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 23 
+   Tabla Destino sno_constante Registros 23 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 6509 
+   Tabla Destino sno_constantepersonal Registros 6509 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 32 
+   Tabla Destino sno_concepto Registros 32 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 9056 
+   Tabla Destino sno_conceptopersonal Registros 9056 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 12 
+   Tabla Destino sno_cargo Registros 12 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 59 
+   Tabla Destino sno_personalnomina Registros 59 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 22 
+   Tabla Destino sno_constante Registros 22 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 1298 
+   Tabla Destino sno_constantepersonal Registros 1298 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 28 
+   Tabla Destino sno_concepto Registros 28 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 1652 
+   Tabla Destino sno_conceptopersonal Registros 1652 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 4 
+   Tabla Destino sno_cargo Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 36 
+   Tabla Destino sno_personalnomina Registros 36 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 18 
+   Tabla Destino sno_constante Registros 18 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 648 
+   Tabla Destino sno_constantepersonal Registros 648 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 27 
+   Tabla Destino sno_concepto Registros 27 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 972 
+   Tabla Destino sno_conceptopersonal Registros 972 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 4 
+   Tabla Destino sno_cargo Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 9 
+   Tabla Destino sno_personalnomina Registros 9 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 2 
+   Tabla Destino sno_constante Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 18 
+   Tabla Destino sno_constantepersonal Registros 18 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 2 
+   Tabla Destino sno_concepto Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 18 
+   Tabla Destino sno_conceptopersonal Registros 18 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 47 
+   Tabla Destino sno_cargo Registros 47 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 267 
+   Tabla Destino sno_personalnomina Registros 267 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 2 
+   Tabla Destino sno_constante Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 534 
+   Tabla Destino sno_constantepersonal Registros 534 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 2 
+   Tabla Destino sno_concepto Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 534 
+   Tabla Destino sno_conceptopersonal Registros 534 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 16 
+   Tabla Destino sno_cargo Registros 16 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 20 
+   Tabla Destino sno_personalnomina Registros 20 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 2 
+   Tabla Destino sno_constante Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 40 
+   Tabla Destino sno_constantepersonal Registros 40 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 2 
+   Tabla Destino sno_concepto Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 40 
+   Tabla Destino sno_conceptopersonal Registros 40 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 40 
+   Tabla Destino sno_cargo Registros 40 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 178 
+   Tabla Destino sno_personalnomina Registros 178 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 2 
+   Tabla Destino sno_constante Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 356 
+   Tabla Destino sno_constantepersonal Registros 356 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 2 
+   Tabla Destino sno_concepto Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 356 
+   Tabla Destino sno_conceptopersonal Registros 356 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 19 
+   Tabla Destino sno_cargo Registros 19 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 285 
+   Tabla Destino sno_personalnomina Registros 285 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 2 
+   Tabla Destino sno_constante Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 570 
+   Tabla Destino sno_constantepersonal Registros 570 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 2 
+   Tabla Destino sno_concepto Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 570 
+   Tabla Destino sno_conceptopersonal Registros 570 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 3 
+   Tabla Destino sno_cargo Registros 3 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 2 
+   Tabla Destino sno_personalnomina Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 2 
+   Tabla Destino sno_constante Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 4 
+   Tabla Destino sno_constantepersonal Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 2 
+   Tabla Destino sno_concepto Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 4 
+   Tabla Destino sno_conceptopersonal Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 11 
+   Tabla Destino sno_cargo Registros 11 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 59 
+   Tabla Destino sno_personalnomina Registros 59 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 2 
+   Tabla Destino sno_constante Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 118 
+   Tabla Destino sno_constantepersonal Registros 118 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 2 
+   Tabla Destino sno_concepto Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 118 
+   Tabla Destino sno_conceptopersonal Registros 118 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_nomina Registros 1 
+   Tabla Destino sno_nomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_subnomina Registros 1 
+   Tabla Destino sno_subnomina Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_cargo Registros 4 
+   Tabla Destino sno_cargo Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tabulador Registros 1 
+   Tabla Destino sno_tabulador Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_grado Registros 1 
+   Tabla Destino sno_grado Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primagrado Registros 0 
+   Tabla Destino sno_primagrado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_asignacioncargo Registros 1 
+   Tabla Destino sno_asignacioncargo Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_personalnomina Registros 36 
+   Tabla Destino sno_personalnomina Registros 36 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_proyectopersonal Registros 0 
+   Tabla Destino sno_proyectopersonal Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constante Registros 2 
+   Tabla Destino sno_constante Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_constantepersonal Registros 72 
+   Tabla Destino sno_constantepersonal Registros 72 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_concepto Registros 2 
+   Tabla Destino sno_concepto Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptopersonal Registros 72 
+   Tabla Destino sno_conceptopersonal Registros 72 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_conceptovacacion Registros 0 
+   Tabla Destino sno_conceptovacacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_primaconcepto Registros 0 
+   Tabla Destino sno_primaconcepto Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_tipoprestamo Registros 0 
+   Tabla Destino sno_tipoprestamo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamos Registros 0 
+   Tabla Destino sno_prestamos Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosperiodo Registros 0 
+   Tabla Destino sno_prestamosperiodo Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_prestamosamortizado Registros 0 
+   Tabla Destino sno_prestamosamortizado Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sno_fideiperiodo Registros 0 
+   Tabla Destino sno_fideiperiodo Registros 0 
+//*****************************************************************//
+La data de nómina se copió correctamente.

@@ -1,0 +1,77 @@
+//*****************************************************************//
+   Tabla Origen  sigesp_empresa Registros 1 
+   Tabla Destino sigesp_empresa Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_sistemas Registros 23 
+   Tabla Destino sss_sistemas Registros 23 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_sistemas_ventanas Registros 843 
+   Tabla Destino sss_sistemas_ventanas Registros 843 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_eventos Registros 5 
+   Tabla Destino sss_eventos Registros 5 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_moneda Registros 3 
+   Tabla Destino sigesp_moneda Registros 3 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_banco_sigecof Registros 1 
+   Tabla Destino sigesp_banco_sigecof Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_procedencias Registros 77 
+   Tabla Destino sigesp_procedencias Registros 77 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_catalogo_milco Registros 0 
+   Tabla Destino sigesp_catalogo_milco Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_config Registros 247 
+   Tabla Destino sigesp_config Registros 247 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_usuarios Registros 79 
+   Tabla Destino sss_usuarios Registros 79 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_grupos Registros 2 
+   Tabla Destino sss_grupos Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_derechos_grupos Registros 26 
+   Tabla Destino sss_derechos_grupos Registros 26 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_permisos_internos Registros 16527 
+   Tabla Destino sss_permisos_internos Registros 16527 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_derechos_usuarios Registros 457112 
+   Tabla Destino sss_derechos_usuarios Registros 457112 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_usuarios_en_grupos Registros 14 
+   Tabla Destino sss_usuarios_en_grupos Registros 14 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_expediente Registros 0 
+   Tabla Destino sigesp_expediente Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_poliza Registros 0 
+   Tabla Destino sigesp_poliza Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_dt_expediente Registros 0 
+   Tabla Destino sigesp_dt_expediente Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_dt_poliza Registros 0 
+   Tabla Destino sigesp_dt_poliza Registros 0 
+//*****************************************************************//
+La data de Seguridad se copió correctamente.

@@ -1,0 +1,56 @@
+//*****************************************************************//
+   Tabla  sss_registro_eventos  Blanqueada  
+//*****************************************************************//
+sss_registro_eventos 
+ //*****************************************************************//
+   Tabla Origen  sigesp_empresa Registros 1 
+   Tabla Destino sigesp_empresa Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_sistemas Registros 23 
+   Tabla Destino sss_sistemas Registros 23 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_sistemas_ventanas Registros 919 
+   Tabla Destino sss_sistemas_ventanas Registros 919 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_eventos Registros 5 
+   Tabla Destino sss_eventos Registros 5 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_moneda Registros 3 
+   Tabla Destino sigesp_moneda Registros 3 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_banco_sigecof Registros 1 
+   Tabla Destino sigesp_banco_sigecof Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_procedencias Registros 77 
+   Tabla Destino sigesp_procedencias Registros 77 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_catalogo_milco Registros 0 
+   Tabla Destino sigesp_catalogo_milco Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_config Registros 255 
+   Tabla Destino sigesp_config Registros 255 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_usuarios Registros 94 
+   Tabla Destino sss_usuarios Registros 94 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_grupos Registros 2 
+   Tabla Destino sss_grupos Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_derechos_grupos Registros 142 
+   Tabla Destino sss_derechos_grupos Registros 142 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sss_permisos_internos Registros 18145 
+   Tabla Destino sss_permisos_internos Registros 18145 
+//*****************************************************************//

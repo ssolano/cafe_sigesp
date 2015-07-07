@@ -1,0 +1,45 @@
+//*****************************************************************//
+   Tabla Origen  scv_categorias Registros 6 
+   Tabla Destino scv_categorias Registros 6 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_ciudades Registros 25 
+   Tabla Destino scv_ciudades Registros 25 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_distancias Registros 0 
+   Tabla Destino scv_distancias Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_misiones Registros 206 
+   Tabla Destino scv_misiones Registros 206 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_regiones Registros 28 
+   Tabla Destino scv_regiones Registros 28 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_dt_regiones Registros 28 
+   Tabla Destino scv_dt_regiones Registros 28 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_rutas Registros 54 
+   Tabla Destino scv_rutas Registros 54 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_transportes Registros 23 
+   Tabla Destino scv_transportes Registros 23 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_tarifas Registros 1 
+   Tabla Destino scv_tarifas Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_tarifakms Registros 0 
+   Tabla Destino scv_tarifakms Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scv_otrasasignaciones Registros 11 
+   Tabla Destino scv_otrasasignaciones Registros 11 
+//*****************************************************************//
+La data de Viaticos se copió correctamente.

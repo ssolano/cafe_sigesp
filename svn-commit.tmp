@@ -1,0 +1,9 @@
+
+--Esta línea y las que están debajo serán ignoradas--
+
+M    spg/reportes/acumulado_por_cuentas.txt
+M    cxp/sigesp_cxp_r_retencionesmunicipales.php
+M    cxp/reportes/sigesp_cxp_rpp_retencionesmunicipales.php
+M    cxp/reportes/sigesp_cxp_class_report.php
+M    scb/reportes/cheque_configurable/medidas.txt
+M    sigesp_config.php

@@ -1,0 +1,2 @@
+No Cuadra el Comprobante Contable Debe=[1863696120.76] , Haber[1859578605.41]
+No se Creo el Asiento de Apertura

@@ -1,0 +1,61 @@
+//*****************************************************************//
+   Tabla Origen  sigesp_plan_unico Registros 803 
+   Tabla Destino sigesp_plan_unico Registros 803 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_plan_unico_re Registros 1840 
+   Tabla Destino sigesp_plan_unico_re Registros 1840 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spi_operaciones Registros 6 
+   Tabla Destino spi_operaciones Registros 6 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spg_operaciones Registros 10 
+   Tabla Destino spg_operaciones Registros 10 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_fuentefinanciamiento Registros 5 
+   Tabla Destino sigesp_fuentefinanciamiento Registros 5 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spg_ministerio_ua Registros 1 
+   Tabla Destino spg_ministerio_ua Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spg_unidadadministrativa Registros 46 
+   Tabla Destino spg_unidadadministrativa Registros 46 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spi_cuentas Registros 10 
+   Tabla Destino spi_cuentas Registros 10 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scg_cuentas Registros 4910 
+   Tabla Destino scg_cuentas Registros 4910 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spg_ep1 Registros 5 
+   Tabla Destino spg_ep1 Registros 5 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spg_ep2 Registros 9 
+   Tabla Destino spg_ep2 Registros 9 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spg_ep3 Registros 9 
+   Tabla Destino spg_ep3 Registros 9 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spg_ep4 Registros 9 
+   Tabla Destino spg_ep4 Registros 9 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spg_ep5 Registros 9 
+   Tabla Destino spg_ep5 Registros 9 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  spg_cuentas Registros 490 
+   Tabla Destino spg_cuentas Registros 490 
+//*****************************************************************//
+La data de Contabilidad, Presupuesto de Gasto y Presupuesto de Ingreso se copió correctamente.

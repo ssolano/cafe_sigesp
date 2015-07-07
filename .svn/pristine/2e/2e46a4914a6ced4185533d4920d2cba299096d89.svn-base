@@ -1,0 +1,33 @@
+Proceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresLa cuenta No. 2062000324                no existe en la nueva Base de Datos, Favor revise 
+SELECT numcol,codtipcol,codban,ctaban, 0.0000  AS saldo
+			   FROM scb_colocacion
+			  GROUP by codban,ctaban,numcol,codtipcol
+Proceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresLa cuenta No. 0109320686                no existe en la nueva Base de Datos, Favor revise 
+SELECT numcol,codtipcol,codban,ctaban, 0.0000  AS saldo
+			   FROM scb_colocacion
+			  GROUP by codban,ctaban,numcol,codtipcol
+Proceso ejecutado sin erroresProceso ejecutado sin erroresLa cuenta No. 0401145273                no existe en la nueva Base de Datos, Favor revise 
+SELECT numcol,codtipcol,codban,ctaban, 0.0000  AS saldo
+			   FROM scb_colocacion
+			  GROUP by codban,ctaban,numcol,codtipcol
+Proceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresLa cuenta No. 0100876723                no existe en la nueva Base de Datos, Favor revise 
+SELECT numcol,codtipcol,codban,ctaban, 0.0000  AS saldo
+			   FROM scb_colocacion
+			  GROUP by codban,ctaban,numcol,codtipcol
+Proceso ejecutado sin erroresProceso ejecutado sin erroresLa cuenta No. 0180735380                no existe en la nueva Base de Datos, Favor revise 
+SELECT numcol,codtipcol,codban,ctaban, 0.0000  AS saldo
+			   FROM scb_colocacion
+			  GROUP by codban,ctaban,numcol,codtipcol
+Proceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresLa cuenta No. 12006                     no existe en la nueva Base de Datos, Favor revise 
+SELECT numcol,codtipcol,codban,ctaban, 0.0000  AS saldo
+			   FROM scb_colocacion
+			  GROUP by codban,ctaban,numcol,codtipcol
+Proceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin erroresLa cuenta No. 5178                      no existe en la nueva Base de Datos, Favor revise 
+SELECT numcol,codtipcol,codban,ctaban, 0.0000  AS saldo
+			   FROM scb_colocacion
+			  GROUP by codban,ctaban,numcol,codtipcol
+Proceso ejecutado sin erroresLa cuenta No. 0244005256                no existe en la nueva Base de Datos, Favor revise 
+SELECT numcol,codtipcol,codban,ctaban, 0.0000  AS saldo
+			   FROM scb_colocacion
+			  GROUP by codban,ctaban,numcol,codtipcol
+Proceso ejecutado sin erroresProceso ejecutado sin erroresProceso ejecutado sin errores

@@ -1,0 +1,54 @@
+//*****************************************************************//
+   Tabla Origen  saf_catalogo Registros 3714 
+   Tabla Destino saf_catalogo Registros 3714 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_causas Registros 97 
+   Tabla Destino saf_causas Registros 97 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_condicioncompra Registros 4 
+   Tabla Destino saf_condicioncompra Registros 4 
+//*****************************************************************//
+Hay data inconsistente en Conservación Bien.
+//*****************************************************************//
+   Tabla Origen  saf_conservacionbien Registros 5 
+   Tabla Destino saf_conservacionbien	 Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_metodo Registros 2 
+   Tabla Destino saf_metodo Registros 2 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_situacioncontable Registros 4 
+   Tabla Destino saf_situacioncontable Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_grupo Registros 3 
+   Tabla Destino saf_grupo Registros 3 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_subgrupo Registros 14 
+   Tabla Destino saf_subgrupo Registros 14 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_seccion Registros 32 
+   Tabla Destino saf_seccion Registros 32 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_rotulacion Registros 6 
+   Tabla Destino saf_rotulacion Registros 6 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_activo Registros 440 
+   Tabla Destino saf_activo Registros 440 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_dta Registros 3704 
+   Tabla Destino saf_dta Registros 3704 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  saf_depreciacion Registros 0 
+   Tabla Destino saf_depreciacion Registros 0 
+//*****************************************************************//
+La data de Activos se copió correctamente.

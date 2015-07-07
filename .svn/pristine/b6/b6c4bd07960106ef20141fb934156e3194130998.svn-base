@@ -1,0 +1,57 @@
+//*****************************************************************//
+   Tabla Origen  rpc_clasificacion Registros 3 
+   Tabla Destino rpc_clasificacion Registros 3 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_documentos Registros 8 
+   Tabla Destino rpc_documentos Registros 8 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_especialidad Registros 22 
+   Tabla Destino rpc_especialidad Registros 22 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_tipo_organizacion Registros 4 
+   Tabla Destino rpc_tipo_organizacion Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_pais Registros 173 
+   Tabla Destino sigesp_pais Registros 173 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_estados Registros 198 
+   Tabla Destino sigesp_estados Registros 198 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_municipio Registros 540 
+   Tabla Destino sigesp_municipio Registros 540 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_parroquia Registros 1659 
+   Tabla Destino sigesp_parroquia Registros 1659 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_proveedor Registros 2033 
+   Tabla Destino rpc_proveedor Registros 2033 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_proveedorsocios Registros 9 
+   Tabla Destino rpc_proveedorsocios Registros 9 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_beneficiario Registros 2048 
+   Tabla Destino rpc_beneficiario Registros 2048 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_espexprov Registros 815 
+   Tabla Destino rpc_espexprov Registros 815 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_docxprov Registros 0 
+   Tabla Destino rpc_docxprov Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_clasifxprov Registros 2 
+   Tabla Destino rpc_clasifxprov Registros 2 
+//*****************************************************************//
+La data de Proveedores y Beneficiarios se copió correctamente.

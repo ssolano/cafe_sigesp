@@ -1,0 +1,17 @@
+//*****************************************************************//
+   Tabla Origen  cxp_clasificador_rd Registros 1 
+   Tabla Destino cxp_clasificador_rd Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  cxp_documento Registros 3 
+   Tabla Destino cxp_documento Registros 3 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_cargos Registros 85 
+   Tabla Destino sigesp_cargos Registros 85 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  sigesp_deducciones Registros 86 
+   Tabla Destino sigesp_deducciones Registros 86 
+//*****************************************************************//
+La data de Cuentas por Pagar se copió correctamente.

@@ -1,0 +1,24 @@
+//*****************************************************************//
+   Tabla Origen  rpc_clasificacion Registros 3 
+   Tabla Destino rpc_clasificacion Registros 3 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  rpc_documentos Registros 8 
+   Tabla Destino rpc_documentos Registros 8 
+//*****************************************************************//
+Error al Insertar la especialidad.
+Invalid query: ERROR:  llave duplicada viola restricción unique «pk_rpc_especialidad»
+Whole query: INSERT INTO rpc_especialidad(codesp, denesp)	  VALUES ('---','---seleccione---')
+INSERT INTO rpc_especialidad(codesp, denesp)	  VALUES ('---','---seleccione---')
+Error al Insertar la especialidad.
+Invalid query: ERROR:  llave duplicada viola restricción unique «pk_rpc_especialidad»
+Whole query: INSERT INTO rpc_especialidad(codesp, denesp)	  VALUES ('014','ARTICULOS DEPORTIVOS')
+INSERT INTO rpc_especialidad(codesp, denesp)	  VALUES ('014','ARTICULOS DEPORTIVOS')
+Error al Insertar la especialidad.
+Invalid query: ERROR:  llave duplicada viola restricción unique «pk_rpc_especialidad»
+Whole query: INSERT INTO rpc_especialidad(codesp, denesp)	  VALUES ('005','ALIEMTOS Y BEBIDAS')
+INSERT INTO rpc_especialidad(codesp, denesp)	  VALUES ('005','ALIEMTOS Y BEBIDAS')
+//*****************************************************************//
+   Tabla Origen  rpc_especialidad Registros 22 
+   Tabla Destino rpc_especialidad Registros 19 
+//*****************************************************************//

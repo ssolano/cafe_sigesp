@@ -1,0 +1,43 @@
+//*****************************************************************//
+   Tabla Origen  scb_banco Registros 11 
+   Tabla Destino scb_banco Registros 11 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scb_tipocuenta Registros 6 
+   Tabla Destino scb_tipocuenta Registros 6 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scb_ctabanco Registros 38 
+   Tabla Destino scb_ctabanco Registros 38 
+//*****************************************************************//
+Hay data inconsistente en las Chequeras.
+Banco 008 Cuentas 00000000000000018225 
+//*****************************************************************//
+   Tabla Origen  scb_cheques Registros 7497 
+   Tabla Destino scb_cheques Registros 7496 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scb_tipocolocacion Registros 0 
+   Tabla Destino scb_tipocolocacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scb_colocacion Registros 0 
+   Tabla Destino scb_colocacion Registros 0 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scb_agencias Registros 4 
+   Tabla Destino scb_agencias Registros 4 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scb_concepto Registros 1 
+   Tabla Destino scb_concepto Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scb_cartaorden Registros 1 
+   Tabla Destino scb_cartaorden Registros 1 
+//*****************************************************************//
+//*****************************************************************//
+   Tabla Origen  scb_config Registros 0 
+   Tabla Destino scb_config Registros 0 
+//*****************************************************************//
+La data de Banco se copió correctamente.
